@@ -1,0 +1,11 @@
+c:\users\alexandr\Source\Repos\Decanat\Decanat\bin\Debug\netcoreapp2.0\Decanat.deps.json
+c:\users\alexandr\Source\Repos\Decanat\Decanat\bin\Debug\netcoreapp2.0\Decanat.runtimeconfig.json
+c:\users\alexandr\Source\Repos\Decanat\Decanat\bin\Debug\netcoreapp2.0\Decanat.runtimeconfig.dev.json
+c:\users\alexandr\Source\Repos\Decanat\Decanat\bin\Debug\netcoreapp2.0\Decanat.dll
+c:\users\alexandr\Source\Repos\Decanat\Decanat\bin\Debug\netcoreapp2.0\Decanat.pdb
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.csprojResolveAssemblyReference.cache
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.csproj.CoreCompileInputs.cache
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.AssemblyInfoInputs.cache
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.AssemblyInfo.cs
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.dll
+c:\users\alexandr\Source\Repos\Decanat\Decanat\obj\Debug\netcoreapp2.0\Decanat.pdb
