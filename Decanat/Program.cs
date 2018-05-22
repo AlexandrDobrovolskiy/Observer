@@ -8,9 +8,9 @@ namespace Decanat
         static void Main(string[] args)
         {
 
-            Post post1  = new Post("Hitler win!", "Hello evreone today hitler win's ! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now);
-            Post post2 = new Post("Hitler win!", "Hello evreone today hitler win's ! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(1));
-            Post post3 = new Post("Hitler win!", "Hello evreone today hitler win's ! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(3));
+            Post post1  = new Post("Hitler win!", "Hello everyone today hitler win! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now);
+            Post post2 = new Post("Hitler win!", "Hello everyone today hitler win! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(1));
+            Post post3 = new Post("Hitler win!", "Hello everyone today hitler win ! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(3));
 
             Faculty FIT = new FIT();
             Decanat KNUDecanat = new Decanat();
