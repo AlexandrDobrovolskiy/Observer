@@ -8,9 +8,20 @@ namespace Decanat
         static void Main(string[] args)
         {
 
-            Post post1  = new Post("Hitler win!", "Hello everyone today hitler win! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now);
-            Post post2 = new Post("Hitler win!", "Hello everyone today hitler win! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(1));
-            Post post3 = new Post("Hitler win!", "Hello everyone today hitler win ! dakfjsdfhsdfhasldbfjksdb bfjskj fasjkhf lashdfl khsdfh slkhflks dhflksdh lkf hsdlkfh lsdkhf ldskfhslk fhldskhf lksdhflkd", DateTime.Now.AddDays(3));
+            Post post1  = new Post(
+                "Yves Saint-Laurent, was a French fashion designer who, in 1961, founded his eponymous fashion label. He is regarded as being among the foremost fashion designers in the twentieth century.[2] In 1985, Caroline Rennolds Milbank wrote, \"The most consistently celebrated and influential designer of the past twenty-five years, Yves Saint Laurent can be credited with both spurring the couture's rise from its 1960s ashes and with finally rendering ready-to-wear reputable.",
+                DateTime.Now
+            );
+
+            Post post2  = new Post(
+                "Yves Saint-Laurent, was a French fashion designer who, in 1961, founded his eponymous fashion label. He is regarded as being among the foremost fashion designers in the twentieth century.[2] In 1985, Caroline Rennolds Milbank wrote, \"The most consistently celebrated and influential designer of the past twenty-five years, Yves Saint Laurent can be credited with both spurring the couture's rise from its 1960s ashes and with finally rendering ready-to-wear reputable.",
+                DateTime.Now
+            );
+
+            Post post3  = new Post(
+                "Yves Saint-Laurent, was a French fashion designer who, in 1961, founded his eponymous fashion label. He is regarded as being among the foremost fashion designers in the twentieth century.[2] In 1985, Caroline Rennolds Milbank wrote, \"The most consistently celebrated and influential designer of the past twenty-five years, Yves Saint Laurent can be credited with both spurring the couture's rise from its 1960s ashes and with finally rendering ready-to-wear reputable.",
+                DateTime.Now
+            );
 
             Faculty FIT = new FIT();
             Decanat KNUDecanat = new Decanat();
